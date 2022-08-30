@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "754337058947",
+    "project_id": "chat-app-9bc78",
+    "storage_bucket": "chat-app-9bc78.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:754337058947:android:383534388f9e1e8cc88bb6",
+        "android_client_info": {
+          "package_name": "com.belajarflutter.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "754337058947-s7j1q1bbkvc05ja65gpld494ol90qo8s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBndM6jrnUvnrZXDj0kzN1UP_JMjQOZNng"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "754337058947-s7j1q1bbkvc05ja65gpld494ol90qo8s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
